@@ -1,0 +1,24 @@
+.MatrixBlock{
+    &__Row{
+        display: flex;
+        flex-flow: column;
+        padding-top: 10px;
+    }
+    &__Col{
+        padding-left: 45px;
+    }
+
+    &__Container{
+        display: flex;
+        flex-flow: row;
+    }
+
+    &__Icon{
+        font-size: 25px;
+        padding: 5px;
+        cursor: pointer;
+        color: rgb(100, 52, 100);
+    }
+}
+
+
