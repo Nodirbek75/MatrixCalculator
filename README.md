@@ -2,7 +2,7 @@
 > Matrix Calculator App built with React.js, matrix.js and Scss.
 
 ## Quick Start
-    * nstall dependencies for server
+    * install dependencies for server
     npm install
   
     * Run the app
